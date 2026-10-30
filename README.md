@@ -123,7 +123,6 @@ CecilGo defines three primary user roles with role-based access control:
 | :--- | :--- |
 | **Admin** | Manage user accounts, vehicles, drivers, GPS devices, system settings, and permissions. |
 | **Manager** | Monitor vehicles, review routes, manage assignments, receive alerts, and generate reports. |
-| **Viewer** | Access permitted vehicle monitoring information according to assigned permissions. |
 
 > **Important**: Drivers do not directly use the CecilGo mobile application. Driver information is maintained for vehicle assignment, operational accountability, and performance monitoring.
 
